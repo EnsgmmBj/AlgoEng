@@ -1,5 +1,10 @@
  <font size="25">> :warning: **This project is move to the following repository: https://github.com/Dahkenangnon/AlgoEng**: The project needs your contribution.</font>
 
+<p style="font-family: times, serif; font-size:11pt; font-style:italic; background-color: red;">
+    Why did we use these specific parameters during the calculation of the fingerprints?
+</p>
+
+
 # AlgoEng
 
 <p align="center">
